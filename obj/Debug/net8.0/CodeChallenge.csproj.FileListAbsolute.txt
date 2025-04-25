@@ -1,0 +1,7 @@
+/home/samuel/Documentos/dev/CodeChallenge/obj/Debug/net8.0/CodeChallenge.csproj.AssemblyReference.cache
+/home/samuel/Documentos/dev/CodeChallenge/obj/Debug/net8.0/CodeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/samuel/Documentos/dev/CodeChallenge/obj/Debug/net8.0/CodeChallenge.AssemblyInfoInputs.cache
+/home/samuel/Documentos/dev/CodeChallenge/obj/Debug/net8.0/CodeChallenge.AssemblyInfo.cs
+/home/samuel/Documentos/dev/CodeChallenge/obj/Debug/net8.0/CodeChallenge.csproj.CoreCompileInputs.cache
+/home/samuel/Documentos/dev/CodeChallenge/obj/Debug/net8.0/CodeChallenge.MvcApplicationPartsAssemblyInfo.cs
+/home/samuel/Documentos/dev/CodeChallenge/obj/Debug/net8.0/CodeChallenge.MvcApplicationPartsAssemblyInfo.cache
